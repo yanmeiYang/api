@@ -6,8 +6,8 @@
 |DELETE   |api.aminer.cn/api/bifrost/person/:id/hide   |隐藏的专家可见   |
 
 ## Chenjing Bai 数据修改的api
-|  method | api  |exp| desc  |
-| ------------ | ------------ | ------------ |
+|  method | api  |exp | desc  |
+| ------------ | ------------ | ------------ | ------------ |
 |GET   | innova.aminer.cn/get/inst/personlist   |innova.aminer.cn/get/inst/personlist?url=http://www.cs.tsinghua.edu.cn/publish/cs/4797/index.html   |根据单位的教师名录url，返回名单，包括姓名和主页地址|
 |POST   | innova.aminer.cn/save/inst/personlist   | ```json
 {
