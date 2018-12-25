@@ -4,6 +4,8 @@
 | ------------ | ------------ | ------------ |
 |POST   |api.aminer.cn/api/bifrost/person/:id/hide   |隐藏一个专家，在profile和search页面是看不到   |
 |DELETE   |api.aminer.cn/api/bifrost/person/:id/hide   |隐藏的专家可见   |
+|POST |platform.permission.SetSystemFunctionPermissions |给系统设计权限 |
+|POST |platform.permission.GetSystem | 查看系统下有所有的权限 system:[] |
 
 ## Chenjing Bai 数据修改的api
 |  method | api  |exp | desc  |
